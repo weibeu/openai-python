@@ -16,7 +16,7 @@ dependencies = [
     "sniffio",
     "tqdm > 4"
 ]
-requires-python = ">= 3.7.1"
+requires-python = ">= 3.6.0"
 classifiers = [
   "Typing :: Typed",
   "Intended Audience :: Developers",
